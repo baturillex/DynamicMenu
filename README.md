@@ -1,0 +1,2 @@
+# DynamicMenu
+Menü dinamikleştirildi
